@@ -24,7 +24,7 @@ Every business is limited by the size and quality of the market it aims at servi
 * Insurance: Charge fee for taking on risk (e.g. car or health insurance, warranty cover for consumer goods)
 * Capital: Collect a portion of the profit of ownership of a business (e.g. angel investing, venture capital, purchasing stock in publicly traded companies)
 
-That said, all values are not treated equally. The value then depends on the eye of the perceiver. In general, if you are looking for a business idea start looking for hassles. Where there is a hassle there is a rewarding opportunity.
+That said, all values are not treated equally. The value then depends on the eye of the perceiver. In general, if you are looking for a business idea start looking for hassles. Where there is a hassle with an attractive and easy-to-vuisualize end result there is a lucrative opportunity.
 
 ## 2. Marketing
 
