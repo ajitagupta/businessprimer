@@ -24,7 +24,9 @@ Every business is limited by the size and quality of the market it aims at servi
 * Insurance: Charge fee for taking on risk (e.g. car or health insurance, warranty cover for consumer goods)
 * Capital: Collect a portion of the profit of ownership of a business (e.g. angel investing, venture capital, purchasing stock in publicly traded companies)
 
-That said, all values are not treated equally. The value depends on the eye of the perceiver. In general, if you are looking for a business idea start looking for hassles. Where there is a hassle that is eliminable with an attractive and easy-to-visualize end result there is a lucrative opportunity.
+That said, all values are not treated equally. The value depends on the eye of the perceiver. In general, if you are looking for a business idea start looking for hassles. Where there is a hassle that is eliminable and has an attractive and easy-to-visualize end result there is a lucrative opportunity. Moreover, packaging individual forms together or unbundling them allows to customize value for different types of customers and give them exactly what they want without creating anything new (e.g. mobile phone with monthly service plan, songs in a music album).
+
+At the outset of creation lies the prototype, the first attempt at creating something useful. These give you a first understanding of your product and its value in the market. In each further iteration it should be clearly and quickly defined what one aims to achieve, thereby making best use of the obtained feedback.
 
 ## 2. Marketing
 
