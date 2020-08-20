@@ -30,6 +30,9 @@ At the outset of creation lies the prototype, the first attempt at creating some
 
 ## 2. Marketing
 
+You can create all the value in the world but if you do not manage to attract buyers you won't survive. In order to efficienty market a product it is recommended to use a form of message that directly appeals to a selected crowd that is already interested in your type of offers (remarkability, receptivity).
+
+
 ## 3. Sales
 
 ## 4. Value Delivery
