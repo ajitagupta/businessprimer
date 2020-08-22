@@ -41,6 +41,7 @@ In Sales, the Pricing Uncertainty Principle applies: all prices are arbitrary an
 2. Market comparison: find similar offer
 3. Discounted Cash Flow / Net Present Value: meant for business that generate ongoing cash flow
 4. Value Comparison: estimate worth of unique characteristics e.g. a house close to area school, Elvis Presley's house) to certain individuals
+
 Keep in mind that prices are sensitive: as prices change the customers attracted to your offer will also change. The idea value will depend on your target market. A classic example of price sensitivity are automobiles - some cars are desirable exactly because they are expensive.
 
 ## 4. Value Delivery
