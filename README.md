@@ -47,6 +47,9 @@ Keep in mind that prices are sensitive: as prices change the customers attracted
 Being generous helps enormously to improve sales. By giving away value and helping others you earn their respect, build a reputation but also make them more perceptive to your Call-To-Action. Barriers to sales include taking risks, high costs, doubts on the functionality or fit, lack of necessity, difficulty in usage. These can be tackled with a combination of educated-based and value-based selling, social comparisons, visualization, framing, full refunds and trials.
 
 ## 4. Value Delivery
+Value Delivery involves everything that is required to make a customer happy. This encompasses order processing, inventory manageent, delivery/fulfillment, troubleshooting and customer support. A successful business exceeds customer expectations and satisfies them even in a changing environment. Unsuccessful businesses fail to make their customers happy and lose them.
+
+A value stream refers to all steps and processes from the start of the Value Creation up until delivery to the customer. Understanding value stream is important if you want to deliver value quickly, reliably and consistently. Tracing individual steps and transformations via diagrams streamlines the process. The shorter and more streamlined it is the easier it will be to manage and effectively deliver value.
 
 ## 5. Finance
 
