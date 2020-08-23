@@ -44,6 +44,8 @@ A successful transaction is the essence of negotiation and negotiation is the pr
 
 Keep in mind that prices are sensitive: as prices change the customers attracted to your offer will also change. The ideal value will then depend on your target market. A classic example of price sensitivity are automobiles - some cars are desirable exactly because they are expensive. In *value-based selling* salespeople focus on asking detailed questions to get to the root of what the prospect really wants. These questions increase the the confidence in their ability to deliver a solution as well as have them discover information to price appropriately. In *education-based selling* on the other hand, the prospects are made informed customers. By educating them you build trust in your expertise and make better customers who fully appreciate the product. In the case where no common ground can be found, it is beneficial to have alternatives. The more attractive they are and the better you know the prospects' alternatives the better deals you will close. Walk away from a bad deal!
 
+Being generous helps enormously to improve sales. By giving away value and helping others you earn their respect, build a reputation but also make them more perceptive to your Call-To-Action. Barriers to sales include taking risks, high costs, doubts on the functionality or fit, lack of necessity, difficulty in usage. These can be tackled with a combination of educated-based and value-based selling, social comparisons, visualization, framing, full refunds and trials.
+
 ## 4. Value Delivery
 
 ## 5. Finance
