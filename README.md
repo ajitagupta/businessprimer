@@ -49,9 +49,12 @@ Being generous helps enormously to improve sales. By giving away value and helpi
 ## 4. Value Delivery
 Value Delivery involves everything that is required to make a customer happy, surpassing expectations when possible. This encompasses order processing, inventory manageent, delivery/fulfillment, troubleshooting and customer support. A successful business exceeds customer expectations and satisfies them even in a changing environment. Unsuccessful businesses fail to make their customers happy and lose them.
 
-A value stream refers to all steps and processes from the start of the Value Creation up until delivery to the customer. Understanding value stream is important if you want to deliver value quickly, reliably and consistently. Tracing individual steps and transformations via diagrams streamlines the process. The shorter and more streamlined it is the easier it will be to manage and effectively deliver value. Distribution channels are a) direct-to-user distribution (e.g. haircut) and b) intermediary distribution across multiple channels (e.g. grocery store, supermarket). Elements that can add to Value Delivery are 1) the Expectation Effect (surprises), 2) Predictability (uniformity - always the same, consistency, reliability). Besides, Duplication, Accumulation, Amplification and Automation (so-called *scale*) allow to distribute service across many paying customers at the same time. Products can be duplicated, whereas shared resources are easier to multiply. Services on the other hand, are difficult to scale since they rely on direct participation of people to deliver value.
+A value stream refers to all steps and processes from the start of the Value Creation up until delivery to the customer. Understanding value stream is important if you want to deliver value quickly, reliably and consistently. Tracing individual steps and transformations via diagrams streamlines the process. The shorter and more streamlined it is the easier it will be to manage and effectively deliver value. Distribution channels are a) direct-to-user distribution (e.g. haircut) and b) intermediary distribution across multiple channels (e.g. grocery store, supermarket).
+
+Elements that can add to Value Delivery are 1) the Expectation Effect (surprises), 2) Predictability (uniformity - always the same, consistency, reliability). Besides, Duplication, Accumulation, Amplification and Automation (so-called *scale*) allow to distribute service across many paying customers at the same time. Products can be duplicated, whereas shared resources are easier to multiply. Services on the other hand, are difficult to scale since they rely on direct participation of people to deliver value.
 
 ## 5. Finance
 
 
+**That's it. Enjoy your day!**
 
