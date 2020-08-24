@@ -20,7 +20,7 @@ Every business is limited by the size and quality of the market it aims at servi
 * Agency: Charge a percentage of the transaction price for selling an asset on behalf of a third-party (e.g. literary agents, real estate)
 * Audience Aggregation: Charge access fee for connecting an audience to a business (e.g. magazines with ad sites)
 * Loan: Charge for lending money with an additional interest rate (e.g. mortgage, auto loans, credit cards)
-* Option: Charge fee for taking action (e.g. movie or concert ticket, coupons, licensing rights)
+* Option: Charge fee for taking action (e.g. a movie or concert ticket, coupons, licensing rights)
 * Insurance: Charge fee for taking on risk (e.g. car or health insurance, warranty cover for consumer goods)
 * Capital: Collect a portion of the profit of ownership of a business (e.g. angel investing, venture capital, purchasing stock in publicly traded companies)
 
@@ -55,6 +55,9 @@ Elements that can add to Value Delivery are 1) the Expectation Effect (surprises
 
 ## 5. Finance
 
+Every successful business must bring in a certain amount of money to continue its operation. Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend the business will continue to exist (so-called *profit*), compensating its owners; nothing can operate at a loss forever. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business.
+* ((Revenue - Cost) / Revenue) x 100 = % Profit Margin
+* ((Price - Cost) / Cost) x 100 = % Markup
 
 **That's it. Enjoy your day!**
 
