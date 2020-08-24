@@ -55,9 +55,10 @@ Elements that can add to Value Delivery are 1) the Expectation Effect (surprises
 
 ## 5. Finance
 
-Every successful business must bring in a certain amount of money to continue its operation. Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend the business will continue to exist (so-called *profit*), compensating its owners; nothing can operate at a loss forever. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business.
+Every successful business must bring in a certain amount of money to make it worthwhile to continue its operation (this point is called *sufficiency*). Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend (so-called *profit*) bthe business will continue to exist; nothing can operate at a loss forever. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business and the higher its Valuatioon (estimate of the total worth of a company).
 * ((Revenue - Cost) / Revenue) x 100 = % Profit Margin
 * ((Price - Cost) / Cost) x 100 = % Markup
+Cash Flow Statements are financial reports that examines the bank account of a company over time. Spread over a shorter period they make sure the company doesn't run out of money, whereas longer periods are used for gauging performance over time.
 
 **That's it. Enjoy your day!**
 
