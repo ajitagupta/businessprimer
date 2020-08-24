@@ -55,10 +55,12 @@ Elements that can add to Value Delivery are 1) the Expectation Effect (surprises
 
 ## 5. Finance
 
-Every successful business must bring in a certain amount of money to make it worthwhile to continue its operation (this point is called *sufficiency*). Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend (so-called *profit*) bthe business will continue to exist; nothing can operate at a loss forever. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business and the higher its Valuatioon (estimate of the total worth of a company).
+Every successful business must bring in a certain amount of money to make it worthwhile to continue its operation (this point is called *sufficiency*). Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend (so-called *profit*) the business will continue to exist; nothing can operate at a loss forever. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business and the higher its Valuation (estimate of the total worth of a company).
 * ((Revenue - Cost) / Revenue) x 100 = % Profit Margin
 * ((Price - Cost) / Cost) x 100 = % Markup
-Cash Flow Statements are financial reports that examines the bank account of a company over time. Spread over a shorter period they make sure the company doesn't run out of money, whereas longer periods are used for gauging performance over time.
+
+Cash Flow Statements are financial reports that examine the bank account of a company over time (e.g. borrowed money). Spread over a shorter period they make sure the company doesn't run out of money, whereas longer periods are used for gauging performance over time. Further, an Income Statement / Profit and Loss Staement is required which contains the business' profit of time after matching revenue: Revenue - Cost of Goods Sold - Expenses - Taxes = Net Profit. A Balance Sheet represents a snapshot of the belongings of a business: Assets (things that have value: products, equipment, stock) - Liabilities (obligations: loans, financing) = Owner's Equity (company's net worth). It is used to determine if the company is solvent (assets are greater than liabilities), has problems to pay the bills and change of company's value over time.
+
 
 **That's it. Enjoy your day!**
 
