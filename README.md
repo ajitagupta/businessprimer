@@ -1,4 +1,4 @@
-# A Business Primer - MBA Business Principles
+# An Entrepreneurship Primer - MBA Business Principles
 
 Succinctly, a business can be defined as a repeatable process that
 1. creates or provides something of value
