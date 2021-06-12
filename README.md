@@ -11,7 +11,7 @@ Every business is a collection of 5 processes each of which integrates smoothly 
 
 ## 1. Value Creation
 Every business is limited by the size and quality of the market it aims at serving. If you don't have a large set of people who really want what you can offer, your chances of establishing a viable business are very slim (so-called *Iron Law of the Market*). Discover what people need or want and build it. However, not every business is economically valuable. Any skill or knowledge that helps create value, market, sell, deliver value, or manage finances is economically valuable. In total there are twelve standard forms of economic value:
-* Product: Price a tanglible item at higher than its production costn (e.g. books)
+* Product: Price a tanglible item at higher than its production cost (e.g. books)
 * Service: Charge a fee for the benefit of help (e.g. barbershop)
 * Shared Resource: Charge for access (e.g. gym, fitness clubs)
 * Subscription: Charge a recurring fee (e.g. cable, satellite television)
