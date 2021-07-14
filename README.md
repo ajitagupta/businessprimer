@@ -51,8 +51,8 @@ Without a minimum level of trust a transaction between two people will not happe
 In Sales, the Pricing Uncertainty Principle applies: all prices are arbitrary and shapeable. So how does one go about setting a price that the customer will accept? There are 4 ways to proceed, where the first three can be used as baseline and the last one can be used to fix the optimal price.
 1. Replacement cost: cost to create + desired margin (= profit)
 2. Market comparison: find similar offer
-3. Discounted Cash Flow / Net Present Value (meant for business that generate ongoing cash flow)
-4. Value Comparison: estimate worth of unique characteristics to certain individuals (e.g. a house close to area school, Elvis Presley's house)
+3. Discounted Cash Flow (meant for business that generate ongoing cash flow)
+4. Value Comparison: estimate worth of unique characteristics to the customer (e.g. a house close to area school, Elvis Presley's house)
 
 Keep in mind that prices are sensitive: as prices change the customers attracted to your offer will also change. The ideal value will then depend on your target market. A classic example of price sensitivity are automobiles - some cars are desirable exactly because they are expensive.
 
@@ -64,9 +64,10 @@ Being generous helps enormously to improve sales. By giving away value and helpi
 ## 4. Value Delivery
 Value Delivery involves everything that is required to make a customer happy, surpassing expectations when possible. This encompasses order processing, inventory management, delivery / fulfillment, troubleshooting and customer support. A successful business exceeds customer expectations and satisfies them even in a changing environment. Unsuccessful businesses fail to make their customers happy and lose them.
 
+### Value streams
 A Value Stream refers to all steps and processes from the start of the Value Creation up until delivery to the customer. Understanding value stream is important if you want to deliver value quickly, reliably and consistently. Tracing individual steps and transformations via diagrams streamlines the process. The shorter and more streamlined it is the easier it will be to manage and effectively deliver value. Distribution channels are a) direct-to-user distribution (e.g. haircut) and b) intermediary distribution across multiple channels (e.g. grocery store, supermarket).
 
-Elements that can add to Value Delivery are 1) the Expectation Effect (surprises), 2) Predictability. Besides, Duplication, Accumulation, Amplification and Automation (so-called *scale*) allow to distribute service across many paying customers at the same time. Products can be duplicated, whereas shared resources are easier to multiply. Services on the other hand, are difficult to scale since they rely on direct participation of people to deliver value.
+Elements that enhance Value Delivery are 1) the Expectation Effect (surprises) and 2) Consistency. Further, Duplication, Accumulation, Amplification and Automation (so-called *scale*) allow to distribute service across many paying customers at the same time. Products can be duplicated, whereas shared resources are easier to multiply. Services on the other hand, are difficult to scale since they rely on direct participation of people to deliver value.
 
 ## 5. Finance
 
