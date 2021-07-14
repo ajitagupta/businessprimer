@@ -67,21 +67,23 @@ Value Delivery involves everything that is required to make a customer happy, su
 ### Value streams
 A Value Stream refers to all steps and processes from the start of the Value Creation up until delivery to the customer. Understanding value stream is important if you want to deliver value quickly, reliably and consistently. Tracing individual steps and transformations via diagrams streamlines the process. The shorter and more streamlined it is the easier it will be to manage and effectively deliver value. Distribution channels are a) direct-to-user distribution (e.g. haircut) and b) intermediary distribution across multiple channels (e.g. grocery store, supermarket).
 
+### Scale
 Elements that enhance Value Delivery are 1) the Expectation Effect (surprises) and 2) Consistency. Further, Duplication, Accumulation, Amplification and Automation (so-called *scale*) allow to distribute service across many paying customers at the same time. Products can be duplicated, whereas shared resources are easier to multiply. Services on the other hand, are difficult to scale since they rely on direct participation of people to deliver value.
 
 ## 5. Finance
 
-Every successful business must bring in a certain amount of money to make it worthwhile to continue its operation (this point is called *sufficiency*). Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend (so-called *profit*) the business will continue to exist. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business and the higher its Valuation (estimate of the total worth of a company).
+Every successful business must bring in a certain amount of money to make it worthwhile to continue its operation (this point is called *sufficiency*). Finance is the art and science of watching money flow in and out of a business, then deciding how to allocate it and determining whether you are producing the desired results. If you are bringing in more money in good foreseeable future than you spend (so-called *profit*) the business will continue to exist. Business can be compared using the Profit Margin or the Markup. The higher the margin the stronger the business and the higher its valuation (estimate of the total worth of a company).
 * ((Revenue - Cost) / Revenue) x 100 = % Profit Margin
 * ((Price - Cost) / Cost) x 100 = % Markup
 
+### Financial documents
 Cash Flow Statements are financial reports that examine the bank account of a company over time (e.g. borrowed money). Spread over a shorter period they make sure the company doesn't run out of money, whereas longer periods are used for gauging performance over time. Further, an Income Statement / Profit and Loss Staement is required which contains the business' profit of time after matching revenue:
 * Revenue - Cost of Goods Sold - Expenses - Taxes = Net Profit
 
 A Balance Sheet represents a snapshot of the belongings of a business:
 * Assets (things that have value: products, equipment, stock) - Liabilities (obligations: loans, financing) = Owner's Equity (company's net worth).
  
-It is used to determine if the company is solvent (assets are greater than liabilities) or has problems to pay the bills and change of company's value over time. Financial ratios (such as the Profit Margin which is a very basic profitability ratio, debt-to-equality ratio, inventory management) are used as sanity-check of the company's profit, debt, cash and efficiency.
+It is used to determine if the company is solvent (assets are greater than liabilities), or has problems to pay the bills, and the change of the company's value over time. Financial ratios such as the Profit Margin (which is a very basic profitability ratio) or debt-to-equity ratio are used as sanity-check of the company's profit, debt, cash and efficiency.
 
 A Cost-Benefit Analysis is conducted to examine potential changes to the business: before making a business decision evaluate the total costs and benefits to ensure to spend money effectively. To that effect it is advisable to operate in markets where there is high Pricing Power (ability to raise prices over time) and Lifetime Value (value of a customer over the entire relationship span, extended e.g. through Subscriptions). Business costs are Allowable Acquisition Cost, Fixed Costs (e.g. Overhead), Variable Costs (defined by created value, e.g. raw materials, hourly workers), Purchasing Power, Opportunity cost (given-away value by making a decision) which are covered by debt and Capital, Sunk Costs (investments that cannot be recovered). The better you understand and control costs the better investments of your money you will make to produce as much value as possible without spending everything or undermining the reason why customers buy from you.
 
