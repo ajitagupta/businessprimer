@@ -76,14 +76,17 @@ Every successful business must bring in a certain amount of money to make it wor
 * ((Revenue - Cost) / Revenue) x 100 = % Profit Margin
 * ((Price - Cost) / Cost) x 100 = % Markup
 
-### Financial documents
+### Financial statements
 *Cash Flow Statements* are financial reports that examine the bank account of a company over time (e.g. borrowed money). Spread over a shorter period they make sure the company doesn't run out of money, whereas longer periods are used for gauging performance over time. Further, an *Income Statement* or *Profit and Loss Statement* is required which contains the business' profit of time after matching revenue:
 * Revenue - Cost of Goods Sold - Expenses - Taxes = Net Profit
 
 A *Balance Sheet* represents a snapshot of the belongings of a business:
 * Assets (things that have value: products, equipment, stock) - Liabilities (obligations: loans, financing) = Owner's Equity (company's net worth).
  
-It is used to determine if the company is solvent (assets are greater than liabilities), or has problems to pay the bills, and the change of the company's value over time. Financial ratios such as the Profit Margin (which is a very basic profitability ratio) or debt-to-equity ratio are used as sanity-check of the company's profit, debt, cash and efficiency.
+It is used to determine if the company is solvent (assets are greater than liabilities), or has problems to pay the bills, and the change of the company's value over time. 
+
+### Financial ratios
+Financial ratios such as the Profit Margin (which is a very basic profitability ratio) or debt-to-equity ratio are used as sanity-check of the company's profit, debt, cash and efficiency.
 
 ### Cost-Benefit Analysis
 A Cost-Benefit Analysis is conducted to examine potential changes to the business: before making a business decision er evaluate the total costs and benefits to ensure spending money effectively. To that effect it is advisable to operate in markets where there is high Pricing Power (ability to raise prices over time) and Lifetime Value (value of a customer over the entire relationship span). Business costs are Allowable Acquisition Cost, Fixed Costs, Variable Costs (defined by created value, e.g. raw materials, hourly workers), Purchasing Power, Opportunity cost (given-away value by making a decision) which are covered by debt and capital, Sunk Costs (investments that cannot be recovered). The better you understand and control costs the better investments of your money you will make to produce as much value as possible without spending everything or undermining the reason why customers buy from you.
