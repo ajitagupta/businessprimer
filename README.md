@@ -1,4 +1,4 @@
-# An Entrepreneurship Primer - MBA Business Principles
+# An Entrepreneurship Primer - MBA Business Principles by Josh Kaufman
 
 Succinctly, a business can be defined as a repeatable process that
 1. creates or provides something of value
@@ -95,5 +95,5 @@ A Cost-Benefit Analysis is conducted to examine potential changes to the busines
 It is important to note that it takes time for the business to start making money. In the ramp-up period processes are established, employees are hired and trained, marketing efforts are launched. The business looks profitable but is not making money. Amortization (spreading payments over multiple periods) can help to predict if a big investment is a good idea or not using an estimated cost and the produced quantity. Eventually, Breakeven is reached and your business becomes self-sustaining. Moreover, Compounding (accumulation of gains over time, e.g. a savings account) and Leverage (borrowing funds to finance the purchase of inventory, equipment, or other assets) multiply the original investment many times over, producing huge results over time.
 
 ## The Book
-Being a great business mind is not about knowing all the answers. It's about asking the right questions and having the right mental models. With this 5-part framework you can ask the right questions and understand any business, at the same time, skip MBA school. That was the core message I gather from the Personal MBA. Josh dictates over 200 business concepts in his book and it is a great handbook to have when analyzing or starting any business. I highly recommend it!
+Being a great business mind is not about knowing all the answers. It's about asking the right questions and having the right mental models. With this 5-part framework you can ask the right questions and understand any business, at the same time, skip MBA school. Josh dictates over 200 business concepts in his book and it is a great handbook to have when analyzing or starting any business. I recommend it!
 
